@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: snow;
+    padding-top: 150px;
+}
+
+h1 {
+    color: teal;
+}
+
+p {
+    font-style: italic;
+    background-color: wheat;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
