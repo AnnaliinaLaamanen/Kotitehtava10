@@ -1,17 +1,14 @@
 body {
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: snow;
-    padding-top: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+    padding-top: 50px;
 }
 
 h1 {
-    color: teal;
+    color: red;
 }
 
 p {
-    font-style: italic;
-    background-color: wheat;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 30px 20px 20px 20px;
 }
