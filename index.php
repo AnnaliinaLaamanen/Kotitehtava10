@@ -8,5 +8,7 @@
 
         Ut libris adipisci mei, quem justo euripidis has ne, vix soluta dictas iudicabit te. In qui unum eius. Pertinacia dissentiunt est cu, has purto delicatissimi ex, rebum labore aliquando et pro. Munere option ad usu, graeci verear democritum nam in.</p>
 
-<?php include 'footer.php'; ?>
+<footer class= "footer">
+    <?php include 'footer.php'; ?>
+</footer>
 
